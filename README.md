@@ -4,11 +4,13 @@
  # Gereklilikler
  
  Proje gereklilikleri:
+ 
  spring-boot-starter-web
  
  spring-boot-starter-data-jpa
  
  postgresql
+ 
  
  Veritabanı olarak postgreSQL kullanılmış olup veriler önceden elle girilmiştir. İstenirse "Controller" üzerinde gerekli değişiklikler yapılıp ekleme, silme fonksiyonları entegre edilebilir.
  
