@@ -20,3 +20,5 @@ countries tablosunun yapısı
 # Tomcat DEPLOY işlemi
  
  Terminalde proje dizinine gidilip "./mvnw package" komutu çalıştırılırsa uygulamanın Tomcat için .war dosyası deploy edilir.
+ 
+ Elde edilen .war dosyası Tomcat'e dahil edilip uygulamanın Tomcat deploy aşaması tamamlanmış olur.
