@@ -16,5 +16,7 @@ users tablosunun yapısı
 countries tablosunun yapısı
 ![image](https://user-images.githubusercontent.com/17264859/156495115-12ca1828-74c9-4b58-95fc-c1857df88f01.png)
 
+
+# Tomcat DEPLOY işlemi
  
  Terminalde proje dizinine gidilip "./mvnw package" komutu çalıştırılırsa uygulamanın Tomcat için .war dosyası deploy edilir.
