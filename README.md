@@ -1,6 +1,8 @@
 # UserAPIWithHibernate
  Veritabanında kayıtlı bulunan verileri Json formatında dönüş alan Spring boot RESTapi uygulamasıdır.
  
+ # Uygulama gereklilikleri
+ 
  Gereklilikler:
  -Spring boot web
  -jpa
