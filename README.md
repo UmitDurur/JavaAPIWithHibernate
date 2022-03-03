@@ -1,9 +1,9 @@
 # JavaAPIWithHibernate
  Veritabanında kayıtlı bulunan verileri Json formatında dönüş alan Spring boot RESTapi uygulamasıdır.
  
- # Uygulama gereklilikleri
+ # Gereklilikler
  
- Gereklilikler:
+ Uygulama gereklilikleri:
  -Spring boot web
  -jpa
  -postresql
